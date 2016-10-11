@@ -13,3 +13,18 @@ C:\Users\njerz\documents\visual studio 2015\Projects\MassUpdater\MassUpdater\obj
 C:\Users\njerz\documents\visual studio 2015\Projects\MassUpdater\MassUpdater\obj\Debug\MassUpdater.application
 C:\Users\njerz\documents\visual studio 2015\Projects\MassUpdater\MassUpdater\obj\Debug\MassUpdater.exe
 C:\Users\njerz\documents\visual studio 2015\Projects\MassUpdater\MassUpdater\obj\Debug\MassUpdater.pdb
+C:\Users\njerz\Documents\GitHub\MassUpdater\MassUpdater\bin\Debug\MassUpdater.exe.config
+C:\Users\njerz\Documents\GitHub\MassUpdater\MassUpdater\obj\Debug\MassUpdater.exe
+C:\Users\njerz\Documents\GitHub\MassUpdater\MassUpdater\obj\Debug\MassUpdater.pdb
+C:\Users\njerz\Documents\GitHub\MassUpdater\MassUpdater\bin\Debug\MassUpdater.exe.manifest
+C:\Users\njerz\Documents\GitHub\MassUpdater\MassUpdater\bin\Debug\MassUpdater.application
+C:\Users\njerz\Documents\GitHub\MassUpdater\MassUpdater\bin\Debug\MassUpdater.exe
+C:\Users\njerz\Documents\GitHub\MassUpdater\MassUpdater\bin\Debug\MassUpdater.pdb
+C:\Users\njerz\Documents\GitHub\MassUpdater\MassUpdater\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\njerz\Documents\GitHub\MassUpdater\MassUpdater\obj\Debug\MassUpdater.csprojResolveAssemblyReference.cache
+C:\Users\njerz\Documents\GitHub\MassUpdater\MassUpdater\obj\Debug\MassUpdater.Form1.resources
+C:\Users\njerz\Documents\GitHub\MassUpdater\MassUpdater\obj\Debug\MassUpdater.Properties.Resources.resources
+C:\Users\njerz\Documents\GitHub\MassUpdater\MassUpdater\obj\Debug\MassUpdater.csproj.GenerateResource.Cache
+C:\Users\njerz\Documents\GitHub\MassUpdater\MassUpdater\obj\Debug\MassUpdater.TrustInfo.xml
+C:\Users\njerz\Documents\GitHub\MassUpdater\MassUpdater\obj\Debug\MassUpdater.exe.manifest
+C:\Users\njerz\Documents\GitHub\MassUpdater\MassUpdater\obj\Debug\MassUpdater.application
