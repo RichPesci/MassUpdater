@@ -197,7 +197,6 @@ namespace MassUpdater
 
 
         // FILL TEXTBOX1 W/ DIR___________________________________________________________________________
-        private string path = "C:\\"; //your file path root
         private string uplevel; // parent path
         private static string sub; // parent full path
 
@@ -261,6 +260,10 @@ namespace MassUpdater
             }
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     } //END FORM
 
 } // END NAMESPACE
